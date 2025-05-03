@@ -1,0 +1,21 @@
+const locationSuggestions: string[] = [
+  "Accra",
+  "Lagos",
+  "Nairobi",
+  "Cape Town",
+  "Cairo",
+  "New York",
+  "San Francisco",
+  "London",
+  "Toronto",
+  "Paris",
+  "Berlin",
+  "Tokyo",
+  "Dubai",
+  "Abu Dhabi",
+  "Mumbai",
+  "Delhi",
+  "Rome",
+  "Istanbul",
+];
+export default locationSuggestions;
